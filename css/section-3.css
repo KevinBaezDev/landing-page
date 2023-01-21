@@ -1,0 +1,21 @@
+.section-3 {
+    background-color: #e5e7eb;
+    font-family: sans-serif;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+}
+
+.quote {
+    font-size: 36px;
+    font-style: italic;
+    color: #1f2937;
+    flex-wrap: wrap;
+}
+
+.quoter {
+    color: #1f2937;
+    font-weight: bold;
+    align-self: flex-end;
+}
