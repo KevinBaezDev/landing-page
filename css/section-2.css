@@ -29,3 +29,11 @@
     text-align: center;
     color: #1f2937;
 }
+
+.info-img {
+    width: 75px;
+    height: auto;
+    border-style: solid;
+    border-color: #3882f6;
+    border-radius: 8px;
+}
