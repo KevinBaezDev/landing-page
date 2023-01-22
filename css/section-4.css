@@ -1,0 +1,43 @@
+.section-4 {
+    font-family: sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    
+}
+
+.offer {
+    background-color: #3882f6;
+    color: #f9faf8;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 100px;
+    padding: 40px 100px 40px 100px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    border-radius: 10px;
+}
+
+.final-text {
+    margin: 0;
+    padding: 0;
+}
+
+.action {
+    font-weight: bold;
+    margin: 0px;
+}
+
+.free {
+    font-size: 12px;
+    margin: 0px;
+}
+
+.offer-button {
+    border-color: white;
+    border-style: solid;
+    padding: 3px 20px 3px 20px;
+}
