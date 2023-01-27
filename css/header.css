@@ -12,6 +12,11 @@ header {
     color: #f9faf8;
 }
 
+.header-img {
+    width: 100px;
+    height: auto;
+}
+
 ul {
     font-size: 18px;
     color: #e5e7eb;
