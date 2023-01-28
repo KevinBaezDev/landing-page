@@ -8,10 +8,18 @@
    font-family: sans-serif;
 }
 
+.container-1 {
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+   flex: 1;
+   max-width: 1000px;
+}
+
 .text {
    display: flex;
    flex-direction: column;
-   max-width: 400px;
+   max-width: 500px;
    
 }
 
@@ -40,6 +48,6 @@ button {
 }
 
 img {
-   width: 200px;
+   width: 300px;
    height: auto;
 }
